@@ -2,9 +2,7 @@
 
 ## Présentation du projet
 
-Kronos App est une application mobile développée dans le cadre d’un projet académique.  
-Elle accompagne le service Kronos, spécialisé dans la location de montres de luxe, en proposant une expérience mobile premium, fluide et rassurante.
-
+Le site Kronos est une plateforme de location de montres de luxe au design premium et minimaliste. Il propose une navigation fluide et intuitive, mettant en avant le catalogue et Kronos Secure, un système de sécurité breveté intégré à chaque montre afin de rassurer les clients et les assureurs.
 L’application a été conçue avec la solution no-code GoodBarber, en cohérence avec l’identité graphique et l’approche UX/UI du site web Kronos.
 
 ---
